@@ -1,5 +1,7 @@
 Goodreads Library SQL Project
+
 Project Overview
+
 This is a personal SQL project built to develop my understanding of SQL, data cleaning and relational data modelling.
 
 I used an export of my Goodreads library containing 393 books as a real-world dataset. The data was not perfectly consistent, which gave me an opportunity to practise identifying data-quality issues, deciding how they should be handled, and transforming the raw data into a more structured database.
